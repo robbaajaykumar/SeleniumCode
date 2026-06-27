@@ -1,0 +1,17 @@
+# Eclipse
+bin/
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# TestNG
+test-output/
+
+# Screenshots
+Screenshots/
+
+# Logs
+*.log
